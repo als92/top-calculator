@@ -44,14 +44,15 @@ body {
 	height: 65%;
 	width: 100%;
 	display: flex;
-	flex-wrap: wrap;
 	justify-content: flex-end;
 	align-items: center;
+	align-content: center;
 	color: #eee;
 	background-color: rgb(70, 77, 73);
 	margin: 10px 0;
 	font-size: 2rem;
 	overflow: hidden;
+	padding: 0 10px;
 }
 
 .all-buttons {
